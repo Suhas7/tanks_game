@@ -1,0 +1,12 @@
+*.axf
+*.o
+*.crf
+*.dep
+*.ini
+*.d
+*.axf
+*.uvgui
+*.htm
+*.uvopt
+*.bak
+*.map
